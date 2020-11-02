@@ -6,7 +6,7 @@ body{
     padding: 0;
     background: #fff;
 
-    color: #fff;
+    color: rgb(204, 39, 39);
     font-family: Arial;
     font-size: 12px;
 }
@@ -94,7 +94,7 @@ body{
     margin-top: 10px;
 } */
 
-.button-login{
+.button{
     width: 260px;
     height: 35px;
     background: #fff;
